@@ -1,0 +1,78 @@
+Enlace del repositorio: https://github.com/Kevin07k/ISW-CVS-NETFLIX-CLONE
+
+# DOCUMENTO DE ESPECIFICACIONES TECNICAS PARA NETFLEX
+
+
+## 1. Introducción.
+Este documento describe de manera clara y concisa los lineamientos y funcionalidades principales del proyecto Netflex. Inspirado en la exitosa aplicación Netflix, Netflex se plantea como una plataforma de streaming con mejoras innovadoras para ofrecer una experiencia única. Además de contar con un extenso catálogo de películas y series, Netflex incorpora nuestro sistema de puntos FlexPoints, personalización de interfaz llevada al siguiente nivel y varias soluciones de inteligencia artificial propias que buscan revolucionar la forma en que se disfruta del contenido audiovisual.
+
+### 1.1. Alcance de Producto.
+Netflex es una plataforma de streaming inspirada en el éxito de Netflix, pero con mejoras que la hacen única. Se ha diseñado para ofrecer una experiencia similar en términos de calidad y variedad de contenido, pero añadiendo un sistema de pago flexible que se adapta a las necesidades de cada usuario, ya sea en planes individuales, en dúo o familiares, y con modalidades de pago semanal, mensual o anual. Además, incorpora el innovador sistema de recompensas FlexPoints, que premia la interacción y el consumo de contenido, permitiendo a los usuarios acumular puntos que luego podrán canjear por beneficios exclusivos.
+
+### 1.2. Valor Objetivo.
+¿Por qué la hacemos y qué beneficios trae a la empresa?
+El principal objetivo de Netflex es transformar la experiencia de ver películas y series, combinando el entretenimiento tradicional con innovaciones tecnológicas que marcan la diferencia. Al integrar FlexPoints y diversas soluciones de inteligencia artificial, la plataforma no solo mejora la accesibilidad y personalización del contenido, sino que también incentiva el uso continuo del servicio. Se busca que la experiencia sea más interactiva y personalizada, generando mayores ingresos a través de un sistema de suscripciones diversificado y ofreciendo herramientas que realmente aporten valor al usuario haciéndolo de esta manera mucho más accesible.
+
+### 1.3. Público Objetivo.
+Netflex está pensado para ser una solución para todos: desde niño y jóvenes hasta adultos y personas mayores, sin importar su género o nivel de experiencia tecnológica. La plataforma se adapta a los gustos y necesidades de un público diverso, ofreciendo un catálogo amplio que responde a distintas preferencias y asegurando que la interfaz intuitiva permita a cualquier usuario disfrutar de la experiencia sin complicaciones.
+
+### 1.4. Uso Previsto.
+Se prevé el uso de Netflex en los siguientes dispositivos:
+
+- Laptops
+
+- Computadoras de escritorio
+
+- Celulares
+
+- Tablets
+
+- El producto estará disponible como servicio web y aplicación nativa para distintos sistemas operativos, garantizando compatibilidad y una experiencia uniforme. Se enfatiza la adaptabilidad del diseño (responsive design) para asegurar que la calidad del servicio se mantenga sin importar el dispositivo utilizado.
+
+### 1.5. Descripción General.
+Netflex es una solución integral de streaming que combina lo mejor de las plataformas tradicionales con innovaciones tecnológicas disruptivas. Además de sus funciones básicas, se destaca por la implementación de FlexPoints, un sistema que recompensa a los usuarios por cada interacción y consumo de contenido. La plataforma también incorpora tres módulos de inteligencia artificial propios: un recomendador de películas que sugiere contenido basado en el historial del usuario, un traductor de subtítulos que facilita el acceso a contenidos en varios idiomas, y una herramienta que convierte subtítulos en audio, haciendo el servicio más accesible. Adicionalmente, Netflex utiliza un chatbot, es decir, un módulo basado en una API similar a ChatGPT, que permite identificar o sugerir películas a partir de descripciones vagas, como el estilo de animación, el género o datos imprecisos sobre la trama y los personajes. Todo el sistema se apoya en una única base de datos centralizada, accesible a través de un servidor seguro, lo que garantiza la integridad y confidencialidad de la información.
+
+
+
+## 2. Requisitos.
+Esta sección detalla de manera concreta los requisitos que debe cumplir Netflex para asegurar su correcto funcionamiento y ofrecer una experiencia de usuario óptima.
+
+### 2.1. Requisitos Funcionales.
+- Inicio de sesión y registro de usuarios, con verificación por correo electrónico o SMS.
+- Realización de pagos mediante tarjeta de crédito o débito, con opciones flexibles (pago semanal, mensual o anual).
+- Selección entre planes Individual, Duo y Familiar, adaptados a distintas necesidades.
+- Acumulación y canje de puntos para obtener beneficios exclusivos, como acceso a contenido premium y promociones especiales.
+- Inteligencia artificial que sugiere películas y series basadas en el historial y preferencias del usuario.
+- Herramienta de IA que traduce automáticamente los subtítulos a varios idiomas.
+- Funcionalidad que transforma subtítulos en audio, facilitando el acceso al contenido para diversos públicos.
+- Sistema basado en IA (similar a ChatGPT) que reconoce o sugiere películas a partir de descripciones imprecisas (estilo de animación, género, nombres aproximados de personajes o trama vaga).
+- Herramienta para filtrar y buscar contenido según género, actores, directores y calificaciones.
+- Configuración de perfiles con opciones de privacidad y personalización de la interfaz.
+- Sistema de alertas para informar sobre nuevas incorporaciones, promociones y eventos especiales.
+- Conexión que permite compartir contenido y experiencias a las redes sociales directamente desde la plataforma.
+-Búsqueda inteligente con IA
+-Descarga para visialización offline
+-Perfiles Personalizados con IA adaptiva
+
+### 2.2. Requisitos de Diseño.
+- Interfaz Minimalista, Elegante, Amigable y Moderna.
+- Diseño Moderno y Ordenado.
+- Resolución Atractiva visualmente.
+- Elementos Visuales Atractivos.
+- Diseño Responsive (se adapta a distintas pantallas).
+- Personalización de la Apariencia.
+- Uso de Animaciones y Transiciones Suaves.
+- Clasificación de géneros por color.
+- Tipografía recoleta (personalizable).
+- Alta calidad de imagen.
+
+### 2.2. Requisitos no Funcionales.
+- Rendimiento muy alto.
+- Tiempos de respuestas rápidos.
+- Gestión Centralizada de Datos.
+- Seguridad Adaptadas al manejo de información (media).
+- Mantenimiento periódico y actualizaciones constantes.
+- Compatibilidad con varios dispositivos.
+- Disponibilidad 24/7 y soporte técnico eficiente para la resolución de incidencias.
+- Escalabilidad para soportar un crecimiento sostenido de usuarios.
+- Compatibilidad con múltiples navegadores y sistemas operativos.
