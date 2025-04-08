@@ -1,0 +1,75 @@
+HISTORIA DE USUARIO
+
+como joven independiente
+Quiero lavar ropa por colores
+Para verme bien mañana y no manchar mi ropa
+
+Criterios de aceptación
+1. Lavar bien por colores
+2. Mezclar rojo y blanco
+3. Mezclar amarillo y azul
+
+#1
+
+Como joven higienico
+Quiero oler bien
+Porque quiero mostrar un buen aspecto
+
+Criterios de aceptación
+
+1. Tengo que bañarme
+2. Debo usar ropa limpia
+3. Cuidar mi salud higienica
+
+#2
+
+Como persona que tiene que dar un examen al día siguiente
+Quiero encontrar un metodo de estudio compatible conmigo
+Para poder aprobar con buena nota
+
+Criterio de aceptación
+
+1. Probar metodos de estudio
+2. No distraerme 
+3. Estudiar hasta saber
+
+#3
+
+Como buena persona
+Quiero ayudar y ser empatico con los demás
+Para poder ser mejor persona 
+
+Criterios de aceptación
+
+1. Le dejo de sacar el dedo del medio a Anita Cabrera
+2. Busco concientizar el respeto
+3. Ayudo a la convevencia sana y respetuosa}
+
+#4
+
+Como buena degustadora de comida
+Quiero probar todo tipo de gatronomia
+Para poder conocer los alimentos tipicos de cada lugar
+ 
+Criterios de aceptación
+
+1. Tener una mentalidad abierta respecto a la comida
+2. Respetar limites morales sobre el tipo de comida
+3. Viajar por el mundo y descubrir nuevos sabores
+
+#5
+Como persona que ama los aniamles
+Quiero ganar mucho dinero
+Para tener la posibilidad te salvarlos a todos
+
+Criterios de aceptación
+
+1. Salvo a los que puedo
+2. busco formas de generar ingresos
+3. Dono a las fundaciones 
+
+
+ 
+
+
+
